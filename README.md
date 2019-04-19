@@ -1,2 +1,3 @@
-# conjugate
-Conjugate Gradident Method
+# Conjugate Gradient Method
+
+Put your code here.
